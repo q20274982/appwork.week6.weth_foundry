@@ -1,3 +1,6 @@
+## Test Result
+[![test](https://github.com/q20274982/appwork.week6.weth_foundry/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/q20274982/appwork.week6.weth_foundry/actions/workflows/test.yml)
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
